@@ -1,4 +1,6 @@
 GreenOrb
 ========
 
-A HTML5 game 
+A HTML5 game
+
+Demo: http://goldenratio.github.io/greenorb/
