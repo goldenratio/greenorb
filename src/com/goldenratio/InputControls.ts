@@ -93,7 +93,6 @@ module com.goldenratio
 
         private onKeyDown(event:KeyboardEvent):void
         {
-            //console.log("key down, " + event.keyCode);
             var validKey:bool = false;
             if(event.keyCode == 39) // right arrow
             {

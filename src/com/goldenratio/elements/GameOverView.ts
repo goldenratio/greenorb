@@ -64,8 +64,6 @@ module com.goldenratio.elements
 
         private onStageClickHL(event:MouseEvent):void
         {
-            console.log("click stage from Game Over");
-
             event.preventDefault();
 
             var domEvent:Event = document.createEvent("Event");

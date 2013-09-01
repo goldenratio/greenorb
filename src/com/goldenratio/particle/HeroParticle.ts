@@ -49,7 +49,6 @@ module com.goldenratio.particle
             }
 
 
-            //console.log(tx + ", " + ty);
             super.setPosition(tx, ty);
 
         }
