@@ -1,0 +1,1 @@
+class=com/goldenratio/Main.ts
